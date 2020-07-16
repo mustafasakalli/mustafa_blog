@@ -1,0 +1,21 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Personal Website of Mustafa Sakallı"
+theme = "ananke"
+
+
+enableEmoji = true
+[menu]
+    [[menu.main]]
+        identifier = "about"
+        Name = "About"
+        url = "/about/"
+        weight = 0
+[taxonomies]
+    tag = "tags"
+    author = "authors"
+    preserveTaxonomyNames = true
+
+
+[permalinks]
+    post = "/blog/:title/"
