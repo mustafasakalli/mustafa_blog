@@ -8,3 +8,5 @@ categories: ["hugo", "software"]
 
 hele vela velvela
 abdülkadir selvi fetö artığıdır.
+
+{{< tweet 1283668675225149440 >}}

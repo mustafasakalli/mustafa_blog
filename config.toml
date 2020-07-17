@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Personal Website of Mustafa Sakallı"
+title = "Mustafa Sakallı"
 theme = "ananke"
 
 SectionPagesMenu = "main"
@@ -23,7 +23,7 @@ enableEmoji = true
 
 
 [params]
-    favicon = ""
+    favicon = "code.svg"
     description = "The last theme you'll ever need. Maybe."
     facebook = ""
     twitter = ""
@@ -37,7 +37,7 @@ enableEmoji = true
     stackoverflow = ""
     rss = ""
     # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-    background_color_class = "bg-red"
+    background_color_class = "bg-blue"
     featured_image = "facebook_cover.png"
     recent_posts_number = 3
     show_reading_time = true
