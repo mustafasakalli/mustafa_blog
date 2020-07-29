@@ -24,7 +24,7 @@ enableEmoji = true
 
 [params]
 
-    site_logo = "static/code.svg"
+    site_logo = "/background.jpg"
     description = "Personal Website of Mustafa Sakallı "
     [[params.social]]
     name = "github"
