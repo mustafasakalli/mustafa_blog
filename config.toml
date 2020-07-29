@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Mustafa Sakallı"
-theme = "ananke"
+theme = "m10c"
 
 SectionPagesMenu = "main"
 
@@ -23,22 +23,16 @@ enableEmoji = true
 
 
 [params]
-    favicon = "code.svg"
-    description = "The last theme you'll ever need. Maybe."
-    facebook = ""
-    twitter = ""
-    instagram = ""
-    youtube = ""
-    github = "https://github.com/mustafasakalli"
-    gitlab = ""
-    linkedin = "https://linkedin.com/in/mustafasakalli"
-    mastodon = ""
-    slack = ""
-    stackoverflow = ""
-    rss = ""
-    # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-    background_color_class = "bg-blue"
-    featured_image = "facebook_cover.png"
-    recent_posts_number = 3
-    show_reading_time = true
-    site_logo = ""
+  description = "Personal Website of Mustafa Sakallı "
+    [[params.social]]
+    name = "github"
+    url = "https://github.com/mustafasakalli"
+    [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/mstfsakalli" 
+
+    [[params.social]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/mustafasakalli"  
+
+    
