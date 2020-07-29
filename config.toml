@@ -1,6 +1,6 @@
 baseURL = "https://mustafasakalli.me/"
 languageCode = "tr"
-title = "Yazılar"
+title = "Mustafa Sakallı"
 theme = "m10c"
 
 SectionPagesMenu = "main"
@@ -24,8 +24,8 @@ enableEmoji = true
 
 [params]
 
-    site_logo = "code.svg"
-  description = "Personal Website of Mustafa Sakallı "
+    site_logo = "static/code.svg"
+    description = "Personal Website of Mustafa Sakallı "
     [[params.social]]
     name = "github"
     url = "https://github.com/mustafasakalli"
