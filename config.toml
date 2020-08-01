@@ -9,9 +9,9 @@ enableEmoji = true
 [menu]
     [[menu.main]]
         identifier = "about"
-        Name = "about"
+        Name = "About"
         url = "/about/"
-        weight = 1
+        weight = 0
 [taxonomies]
     tag = "tags"
     author = "Mustafa Sakallı"
@@ -23,9 +23,12 @@ enableEmoji = true
 
 
 [params]
+<<<<<<< HEAD
 
-    site_logo = "/background.jpg"
-    description = "Personal Website of Mustafa Sakallı "
+    
+=======
+  description = "Personal Website of Mustafa Sakallı "
+>>>>>>> parent of f6b2eaa... site logosu eklendi & başlık kaldırıldı
     [[params.social]]
     name = "github"
     url = "https://github.com/mustafasakalli"
