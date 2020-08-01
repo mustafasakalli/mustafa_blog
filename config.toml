@@ -23,15 +23,15 @@ enableEmoji = true
 
 
 [params]
-<<<<<<< HEAD
 
-    
-=======
-  description = "Personal Website of Mustafa Sakallı "
->>>>>>> parent of f6b2eaa... site logosu eklendi & başlık kaldırıldı
+    author = "Mustafa Sakallı Lord"
+    description = "Trying to be a software developer."
+    avatar = "/background.jpg"
+
     [[params.social]]
     name = "github"
     url = "https://github.com/mustafasakalli"
+    
     [[params.social]]
     name = "twitter"
     url = "https://twitter.com/mstfsakalli" 
