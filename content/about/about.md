@@ -3,7 +3,7 @@
 title: "About Me"
 date: 2020-07-17T09:39:16+03:00
 draft: false
-tags: ["markdown", "about","hugo" ]
+tags: ["about"]
 categories: ["hugo", "about"]
 
 ---
