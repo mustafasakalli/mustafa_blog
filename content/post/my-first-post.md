@@ -1,7 +1,7 @@
 ---
 title: "My First Software Post"
 date: 2020-07-16T10:40:51+03:00
-draft: true
+draft: false
 tags: ["markdown", "software", ]
 categories: ["hugo", "software"]
 ---
