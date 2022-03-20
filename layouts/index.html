@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title></title>
+
+</head>
+
+<body>
+  <script type="text/javascript">
+    if (window.location.hash.includes('_token=')) {
+      window.location.replace('/admin/' + window.location.hash)
+    }
+  </script>
+</body>
+</html>
